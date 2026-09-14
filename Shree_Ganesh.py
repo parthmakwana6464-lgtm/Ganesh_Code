@@ -17,7 +17,7 @@ PHRASE = [
     "मः"
 ]
 
-image = Image.open("D:\Animation\Picture\ganesha.png").convert("L")
+image = Image.open("Picture/ganesha.png").convert("L")
 
 # Change this to make the artwork more/less detailed
 width = 120
